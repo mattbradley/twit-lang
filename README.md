@@ -2,8 +2,8 @@ Twitter Languages
 =================
 
 This little project hooks on to the Twitter firehose and spits out a guess of
-the language is tweet is written in. It uses Node.js to connect to the Twitter
-API, and outputs the tweets on the command line.
+the language a tweet is written in. It uses Node.js to connect to the Twitter
+API and outputs the tweets on the command line.
 
 The language is guessed using a
 [naive Bayesian classifier](http://en.wikipedia.org/wiki/Bayesian_Classifiers).
